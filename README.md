@@ -14,3 +14,6 @@
 -   实现未定义变量和数组越界的错误处理
 -   当完成所有任务的时候，所有的测试也应该通过
 ##### 运行方法
+
+1. `git clone https://github.com/TUPOBO/Feed-Reader-Testing.git`
+2. 运行index.html文件
